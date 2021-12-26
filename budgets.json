@@ -1,0 +1,71 @@
+[
+    {
+        "type" : "Expense",
+        "amount" : 1000,
+        "month" : "March",
+        "year" : "2018"
+    }
+    ,
+    {
+        "type" : "Income",
+        "amount" : 5000,
+        "month" : "August",
+        "year" : "2018"
+    }
+    ,
+    {
+        "type" : "Income",
+        "amount" : 1200,
+        "month" : "September",
+        "year" : "2018"
+    }
+    ,
+    {
+        "type" :"Expense",
+        "amount":12000,
+        "month":"October",
+        "year":"2018"
+    }
+    ,
+    {
+        "type":"Income",
+        "amount":5000,
+        "month":"December",
+        "year":"2018"
+    }
+    ,
+    {
+        "type" : "Income",
+        "amount" : 3000,
+        "month" :"January",
+        "year" : "2019"
+    }
+    ,
+    {
+        "type" : "Income",
+        "amount" : 1200,
+        "month" :"March",
+        "year" : "2019"
+    }
+    ,
+    {
+        "type" : "Income",
+        "amount" : 2000,
+        "month" :"August",
+        "year" : "2019"
+    }
+    ,
+    {
+        "type" : "Expense",
+        "amount" : 6000,
+        "month" :"September",
+        "year" : "2019"
+    }
+    ,
+    {
+        "type":"Income",
+        "amount":3000,
+        "month" : "December",
+        "year" :"2019"
+    }
+]
